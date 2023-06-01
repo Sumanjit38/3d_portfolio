@@ -1,7 +1,9 @@
-// eslint-disable-next-line no-unused-vars
+//import * THREE from 'three';
 import React, { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
+
+//import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 
 import CanvasLoader from "../Loader";
 
