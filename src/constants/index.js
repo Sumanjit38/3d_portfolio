@@ -20,9 +20,12 @@ import {
     tesla,
     shopify,
     carrent,
-    jobit,
+    ETHDaddy,
+    Dappazon,
+    Millow,
     tripguide,
-    threejs
+    threejs,
+    Tokenmaster
   } from "../assets";
   
   export const navLinks = [
@@ -236,7 +239,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: Dappazon,
       source_code_link: "https://github.com/",
     },
     {
@@ -257,7 +260,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: Millow,
       source_code_link: "https://github.com/",
     },
     {
@@ -278,7 +281,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: Tokenmaster,
       source_code_link: "https://github.com/",
     },
     {
@@ -299,7 +302,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: ETHDaddy,
       source_code_link: "https://github.com/",
     },
   ];

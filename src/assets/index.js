@@ -27,8 +27,11 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import ETHDaddy from "./ETHDaddy.png"
+import Dappazon from "./Dappazon.png";
+import Millow from "./Millow.png";
 import tripguide from "./tripguide.png";
+import Tokenmaster from "./Tokenmaster.png";
 
 export {
   logo,
@@ -57,6 +60,9 @@ export {
   starbucks,
   tesla,
   carrent,
-  jobit,
+  ETHDaddy,
+  Dappazon,
+  Millow,
+  Tokenmaster,
   tripguide,
 };
