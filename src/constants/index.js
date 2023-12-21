@@ -37,8 +37,16 @@ import {
       title: "About",
     },
     {
+      id: "education",
+      title: "Education",
+    },
+    {
       id: "work",
-      title: "Work",
+      title: "Projects",
+    },
+    {
+      id: "certification",
+      title: "Certification",
     },
     {
       id: "contact",
@@ -175,7 +183,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Coursera certifies their successful completion of University at Buffalo & The State University of New York Blockchain Specialization.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
